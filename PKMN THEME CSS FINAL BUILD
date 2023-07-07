@@ -1,0 +1,51 @@
+/**
+ * @name Pokemon CSS
+ * @version 1.0
+ * @description A special theme for my friend Bunny!
+ * @author Stell4rJade
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Stell4rJade
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/s9Om8Yp.jpg');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.6;
+  --homeImage: url('https://i.imgur.com/QQh9v6a.jpg');
+  --homeImageSize: 200%;
+  --themeColor1: #000000;
+  --themeColor2: #FFE082;
+  --customFont: Open Sans;
+  --backgroundCode: rgb(0,0,0,0.64);
+  --backgroundName: rgb(233,217,84,0.41);
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
