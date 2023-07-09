@@ -1,0 +1,51 @@
+/**
+ * @name Kit Kat
+ * @version 1.0
+ * @description A theme used for debugging.
+ * @author Stell4rJade
+ * @invite w8yaUyGKRA
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/s3WXzrE.jpg');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.65;
+  --homeImage: url('https://i.imgur.com/BjuGbdQ.jpg');
+  --homeImageSize: cover;
+  --themeColor1: #000000;
+  --themeColor2: #484848;
+  --customFont: Open Sans;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgba(0 0 0 /.5);
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
