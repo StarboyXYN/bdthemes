@@ -4,9 +4,9 @@
  * @description A theme used for debugging.
  * @author Stell4rJade
  * @invite w8yaUyGKRA
- * @source https://github.com/xcruxiex/themes
- * @website https://betterdiscord.app/theme/Neutron
- * @BDEditor Neutron
+ * @source https://github.com/Fr0styScr1pter/bdthemes/blob/main/Kit%20Kat%20theme%20CSS%20FINAL%20BUILD
+ * @website https://github.com/Fr0styScr1pter
+ * @BDEditor Stell4rJade
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
