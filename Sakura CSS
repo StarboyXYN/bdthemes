@@ -1,0 +1,96 @@
+/**
+ * @name Sakura
+ * @version 1.0
+ * @description an animated sakura tree background
+ * @author Stell4rJade
+ * @invite w8yaUyGKRA
+ * @source https://github.com/xcruxiex/themes
+ * @website https://github.com/Stell4rJade
+ * @BDEditor Stell4rJade
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Font:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/OyTPWMh.gif');
+  --backgroundColor: #FFB1F2;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.6;
+  --homeImage: url('https://i.imgur.com/tUR3tmM.jpg');
+  --homeImageSize: cover;
+  --themeColor1: #FF87F2;
+  --themeColor2: #FFCAF6;
+  --customFont: Dancing Font;
+  --backgroundCode: rgb(255,170,254,0.5);
+  --backgroundName: rgb(255,61,252,0.5);
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #FF00D5;
+  --rs-idle-color: #D34FCD;
+  --rs-dnd-color: #FF99FA;
+  --rs-offline-color: #F2C9F5;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
+/**
+ * @name Sakura
+ * @version 1.0
+ * @description an animated sakura tree background
+ * @author Stell4rJade
+ * @invite w8yaUyGKRA
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Stell4rJade
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Font:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/OyTPWMh.gif');
+  --backgroundColor: #FFB1F2;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.6;
+  --homeImage: url('https://i.imgur.com/tUR3tmM.jpg');
+  --homeImageSize: cover;
+  --themeColor1: #FF87F2;
+  --themeColor2: #FFCAF6;
+  --customFont: Dancing Font;
+  --backgroundCode: rgb(255,170,254,0.5);
+  --backgroundName: rgb(255,61,252,0.5);
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #FF00D5;
+  --rs-idle-color: #D34FCD;
+  --rs-dnd-color: #FF99FA;
+  --rs-offline-color: #F2C9F5;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
